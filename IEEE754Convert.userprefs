@@ -1,22 +1,14 @@
 ﻿<Properties StartupItem="IEEE754Convert/IEEE754Convert.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_21_x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MonoForAndroid_API_10" />
   <MonoDevelop.Ide.Workbench ActiveDocument="IEEE754Convert/MainActivity.cs">
     <Files>
-      <File FileName="IEEE754Convert/MainActivity.cs" Line="2" Column="2" />
+      <File FileName="IEEE754Convert/MainActivity.cs" Line="25" Column="25" />
+      <File FileName="IEEE754Convert/Resources/values/Strings.xml" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="IEEE754Convert" expanded="True">
-            <Node name="MainActivity.cs" selected="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.IEEE754Convert AndroidDeviceId-Release="HT17WMA07153" />
+  <MonoDevelop.Ide.ItemProperties.IEEE754Convert AndroidDeviceId-Release="HT17WMA07153" MonoForAntroid.PreferredDevice="Nexus 4" />
 </Properties>
