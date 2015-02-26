@@ -1,0 +1,17 @@
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/bin/Debug/IEEE754Convert.dll.mdb
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/bin/Debug/IEEE754Convert.dll
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/bin/Debug/IEEE754Convert.IEEE754Convert.apk
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/obj/Debug/android/bin/IEEE754Convert.IEEE754Convert.apk
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/obj/Debug/res/layout/main.xml
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/obj/Debug/res/values/strings.xml
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/obj/Debug/res/drawable-hdpi/icon.png
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/obj/Debug/res/drawable-mdpi/icon.png
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/obj/Debug/R.cs.flag
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/bin/Debug/IEEE754Convert.IEEE754Convert-Signed.apk
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/obj/Debug/uploadflags.txt
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/obj/Debug/IEEE754Convert.dll
+/Users/Helen/Projects/IEEE754Convert/IEEE754Convert/obj/Debug/IEEE754Convert.dll.mdb
